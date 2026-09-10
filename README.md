@@ -1,6 +1,6 @@
-# IUT Companion 🎓📱
+# IUT Pilot 🎓📱
 
-**IUT Companion** est une application mobile développée avec React Native et Expo, conçue pour centraliser l'ensemble des services numériques utiles aux étudiants de l'université (emploi du temps en direct, messagerie, plateforme pédagogique et portails ENT).
+**IUT Pilot** est une application mobile développée avec React Native et Expo, conçue pour centraliser l'ensemble des services numériques utiles aux étudiants de l'université (emploi du temps en direct, messagerie, plateforme pédagogique et portails ENT).
 
 ---
 
@@ -32,5 +32,5 @@
 
 ## 📲 Téléchargement sur Android (.APK)
 
-Les versions compilées de l'application prêtes à l'installation sur Android sont disponibles directement dans l'onglet [Releases](https://www.google.com/search?q=https://github.com/TomPlle/IUT-Companion/releases).
+Les versions compilées de l'application prêtes à l'installation sur Android sont disponibles directement dans l'onglet [Releases](https://www.google.com/search?q=https://github.com/TomPlle/IUT-Pilot/releases).
 
