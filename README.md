@@ -34,6 +34,3 @@
 
 Les versions compilées de l'application prêtes à l'installation sur Android sont disponibles directement dans l'onglet [Releases](https://www.google.com/search?q=https://github.com/TomPlle/IUT-Companion/releases).
 
-```
-
-```
