@@ -32,5 +32,5 @@
 
 ## 📲 Téléchargement sur Android (.APK)
 
-Les versions compilées de l'application prêtes à l'installation sur Android sont disponibles directement dans l'onglet [Releases](https://www.google.com/search?q=https://github.com/TomPlle/IUT-Pilot/releases).
+Les versions compilées de l'application prêtes à l'installation sur Android sont disponibles directement sur le [site](https://IUT-Pilot.netlify.app).
 
